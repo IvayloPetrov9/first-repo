@@ -1,0 +1,6 @@
+C:\Users\Ivo\source\repos\4.12.2017 hw\ConsoleApp4\obj\Debug\ConsoleApp4.csproj.CoreCompileInputs.cache
+C:\Users\Ivo\source\repos\4.12.2017 hw\ConsoleApp4\bin\Debug\ConsoleApp4.exe.config
+C:\Users\Ivo\source\repos\4.12.2017 hw\ConsoleApp4\bin\Debug\ConsoleApp4.exe
+C:\Users\Ivo\source\repos\4.12.2017 hw\ConsoleApp4\bin\Debug\ConsoleApp4.pdb
+C:\Users\Ivo\source\repos\4.12.2017 hw\ConsoleApp4\obj\Debug\ConsoleApp4.exe
+C:\Users\Ivo\source\repos\4.12.2017 hw\ConsoleApp4\obj\Debug\ConsoleApp4.pdb
